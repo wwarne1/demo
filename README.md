@@ -2,4 +2,4 @@
 
 This is a simple README file
 
-## Heading 2
+## Heading 2 
